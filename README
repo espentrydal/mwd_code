@@ -1,3 +1,10 @@
+The aim of this repository is to complement the author of the Modeling with
+Data's C code with the equivalent code written in Zig as I work through
+the book.
+
+The text of the authors's original README included below:
+
+--------------
 This is the sample code and data for the book _Modeling with Data_.
 
 It is not organized into chapters or subjects, because I expect that you
